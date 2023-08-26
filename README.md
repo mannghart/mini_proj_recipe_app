@@ -1,2 +1,4 @@
-# mini_proj_recipe_app
-This is a recipe finder application which I built for my mini project in the university using flutter
+# mini_project_online_shirts_shopping_web_application
+This is an online shopping web applicaion platform built with HTML, CSS and JavaScript.
+This app has a user friendly interface with awesome user experience.
+Read the report to find out more about this app.
